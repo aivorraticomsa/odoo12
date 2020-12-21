@@ -2,3 +2,59 @@
 	path = odoo
 	url = git@github.com:odoo/odoo.git
 	branch = 12.0
+[submodule "l10n-spain"]
+	path = l10n-spain
+	url = git@github.com:OCA/l10n-spain.git
+	branch = 12.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 12.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 12.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 12.0
+[submodule "bank-payment"]
+	path = bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 12.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 12.0
+[submodule "community-data-files"]
+	path = community-data-files
+	url = git@github.com:OCA/community-data-files.git
+	branch = 12.0
+[submodule "queue"]
+	path = queue
+	url = git@github.com:OCA/queue.git
+	branch = 12.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 12.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 12.0
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
+[submodule "project"]
+	path = project
+	url = git@github.com:OCA/project.git
+	branch = 12.0
+[submodule "hr"]
+	path = hr
+	url = git@github.com:OCA/hr.git
+	branch = 12.0
+[submodule "timesheet"]
+	path = timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 12.0
