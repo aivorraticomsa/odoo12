@@ -87,7 +87,9 @@
 	path = connector-cmis
 	url = git@github.com:OCA/connector-cmis.git
 	branch = 12.0
+	shallow = true
 [submodule "alfodoo"]
 	path = alfodoo
 	url = git@github.com:acsone/alfodoo.git
 	branch = 12.0
+	shallow = true
